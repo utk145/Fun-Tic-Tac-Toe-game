@@ -26,3 +26,5 @@ This is a simple Tic Tac Toe game built TypeScript.
 - Responsive
 ## Disclaimer
 Feel free to use the code as a starting point for your own projects!
+
+Check Out The Post  👉[Here](https://twitter.com/utks1455/status/1653764505950916610?s=20)👈 
